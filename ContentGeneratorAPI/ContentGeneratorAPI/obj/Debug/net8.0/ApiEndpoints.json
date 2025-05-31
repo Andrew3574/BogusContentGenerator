@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ContentGeneratorAPI.Controllers.BookController",
+    "Method": "Index",
+    "RelativePath": "api/Book",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "likes",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "reviews",
+        "Type": "System.Single",
+        "IsRequired": false
+      },
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

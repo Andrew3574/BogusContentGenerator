@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\services\\generators\\bookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\services\\generators\\bookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\services\\generators\\authorgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\services\\generators\\authorgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\models\\languageenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\models\\languageenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\services\\generators\\reviewgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\services\\generators\\reviewgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\services\\generators\\publishergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\services\\generators\\publishergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|d:\\summercourse\\task5\\contentgeneratorapi\\contentgeneratorapi\\services\\generators\\igenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD404850-22C1-4C13-BC1C-D61F84A3E8B7}|ContentGeneratorAPI\\ContentGeneratorAPI.csproj|solutionrelative:contentgeneratorapi\\services\\generators\\igenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewGenerator.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Services\\Generators\\ReviewGenerator.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Services\\Generators\\ReviewGenerator.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Services\\Generators\\ReviewGenerator.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Services\\Generators\\ReviewGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:37:41.897Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Program.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Program.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:40:07.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenerator.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Services\\Generators\\IGenerator.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Services\\Generators\\IGenerator.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Services\\Generators\\IGenerator.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Services\\Generators\\IGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:31:27.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublisherGenerator.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Services\\Generators\\PublisherGenerator.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Services\\Generators\\PublisherGenerator.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Services\\Generators\\PublisherGenerator.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Services\\Generators\\PublisherGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:18:19.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorGenerator.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Services\\Generators\\AuthorGenerator.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Services\\Generators\\AuthorGenerator.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Services\\Generators\\AuthorGenerator.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Services\\Generators\\AuthorGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T20:06:45.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookGenerator.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Services\\Generators\\BookGenerator.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Services\\Generators\\BookGenerator.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Services\\Generators\\BookGenerator.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Services\\Generators\\BookGenerator.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:36:38.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LanguageEnum.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Models\\LanguageEnum.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Models\\LanguageEnum.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Models\\LanguageEnum.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Models\\LanguageEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:31:30.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Models\\Review.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Models\\Review.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:28:45.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Models\\Publisher.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Models\\Publisher.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:28:25.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Models\\Book.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Models\\Book.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:28:17.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Models\\Author.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Models\\Author.cs",
+              "RelativeToolTip": "ContentGeneratorAPI\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:27:52.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ContentGeneratorAPI\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\Controllers\\BookController.cs*",
+              "RelativeToolTip": "ContentGeneratorAPI\\Controllers\\BookController.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:27:45.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 637,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1155,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

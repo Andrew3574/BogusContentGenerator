@@ -35,3 +35,5 @@ D:\SummerCourse\task5\ContentGeneratorAPI\ContentGeneratorAPI\obj\Debug\net8.0\r
 D:\SummerCourse\task5\ContentGeneratorAPI\ContentGeneratorAPI\obj\Debug\net8.0\ContentGeneratorAPI.pdb
 D:\SummerCourse\task5\ContentGeneratorAPI\ContentGeneratorAPI\obj\Debug\net8.0\ContentGeneratorAPI.genruntimeconfig.cache
 D:\SummerCourse\task5\ContentGeneratorAPI\ContentGeneratorAPI\obj\Debug\net8.0\ref\ContentGeneratorAPI.dll
+D:\SummerCourse\task5\ContentGeneratorAPI\ContentGeneratorAPI\obj\Debug\net8.0\ContentGeneratorAPI.sourcelink.json
+D:\SummerCourse\task5\ContentGeneratorAPI\ContentGeneratorAPI\bin\Debug\net8.0\FluentRandomPicker.dll

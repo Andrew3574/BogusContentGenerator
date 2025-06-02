@@ -8,7 +8,7 @@ namespace ContentGeneratorAPI.Services.Generators
         public List<Publisher> GenerateList(LanguageEnum language, int n)
         {
             var publisherGen = new Faker<Publisher>(language.ToString())
-              .RuleFor(n => n.Name, f => f.Name.FullName())
+              .RuleFor(n => n.Name, f => f.Company.CompanyName())
               .RuleFor(y => y.Year, f => f.Random.UInt(1990, 2025));
             return publisherGen.Generate(n);
         }

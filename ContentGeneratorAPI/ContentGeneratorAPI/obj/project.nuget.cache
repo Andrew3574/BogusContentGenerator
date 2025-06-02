@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sQ72b2t9U7A=",
+  "dgSpecHash": "Kgpxv1vmia4=",
   "success": true,
   "projectFilePath": "D:\\SummerCourse\\task5\\ContentGeneratorAPI\\ContentGeneratorAPI\\ContentGeneratorAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\komp\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512",
+    "C:\\Users\\komp\\.nuget\\packages\\fluentrandompicker\\3.5.1\\fluentrandompicker.3.5.1.nupkg.sha512",
     "C:\\Users\\komp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\komp\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\komp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",

@@ -2,25 +2,51 @@
   {
     "ContainingType": "ContentGeneratorAPI.Controllers.BookController",
     "Method": "Index",
-    "RelativePath": "api/Book",
+    "RelativePath": "api/Book/{language}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentGeneratorAPI.Controllers.BookController",
+    "Method": "Index",
+    "RelativePath": "api/Book/{seed}\u0026{page}\u0026{likes}\u0026{reviews}\u0026{language}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "seed",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
         "Name": "likes",
         "Type": "System.Single",
-        "IsRequired": false
+        "IsRequired": true
       },
       {
         "Name": "reviews",
         "Type": "System.Single",
-        "IsRequired": false
+        "IsRequired": true
       },
       {
         "Name": "language",
         "Type": "System.String",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

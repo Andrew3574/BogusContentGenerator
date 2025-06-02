@@ -2,8 +2,8 @@
 {
     public enum LanguageEnum
     {
-        English,
-        Germany,
-        Italy
+        en,
+        ru,
+        es
     }
 }

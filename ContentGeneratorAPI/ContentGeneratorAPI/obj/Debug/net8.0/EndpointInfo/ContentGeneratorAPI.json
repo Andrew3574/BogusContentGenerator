@@ -5,31 +5,76 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Book": {
+    "/api/Book/{language}": {
       "get": {
         "tags": [
           "Book"
         ],
         "parameters": [
           {
+            "name": "language",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "$ref": "#/components/schemas/LanguageEnum"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Book/{seed}&{page}&{likes}&{reviews}&{language}": {
+      "get": {
+        "tags": [
+          "Book"
+        ],
+        "parameters": [
+          {
+            "name": "seed",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "page",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
             "name": "likes",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "number",
-              "format": "float"
+              "format": "float",
+              "default": 1
             }
           },
           {
             "name": "reviews",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "number",
-              "format": "float"
+              "format": "float",
+              "default": 1
             }
           },
           {
             "name": "language",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "$ref": "#/components/schemas/LanguageEnum"
             }

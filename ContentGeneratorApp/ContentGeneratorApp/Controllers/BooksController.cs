@@ -13,7 +13,7 @@ namespace ContentGeneratorAPI.Controllers
         public BooksController(HttpClient httpClient)
         {
             _httpClient = httpClient;
-            _httpClient.BaseAddress = new Uri("https://localhost:7272/api/Book/");
+            _httpClient.BaseAddress = new Uri("http://158.160.114.138:8080/api/Book/");
         }
 
         [HttpGet]

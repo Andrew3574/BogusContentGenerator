@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContentGeneratorAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bce5e8be3081343973e7255ebfc32bd954d1598f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3990c267ca0ab8959964ebc116f278dcd33e7f3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContentGeneratorAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContentGeneratorAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

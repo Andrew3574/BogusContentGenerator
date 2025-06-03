@@ -4,7 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpClient();
 builder.Services.AddRazorPages();
-
+builder.WebHost.UseUrls("http://0.0.0.0:5527");
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -23,7 +23,7 @@ app.UseAuthorization();
 // Настройка маршрутов
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Books}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapRazorPages(); // Добавьте это для поддержки Razor Pages
 
